@@ -1,7 +1,0 @@
-[2026-05-08 05:28:16] Usuario: Emmanuel | Acción: AGREGAR | Usuario: fulano, Tipo: Usuario, Email: fulano@gmail.com
-[2026-05-08 05:44:31] Usuario: Emmanuel | Acción: ELIMINAR | Usuario: fulano, Tipo: Usuario, Email: fulano@gmail.com
-[2026-05-08 05:48:00] Usuario: Emmanuel | Acción: MODIFICAR | Usuario original: Emmanuel → Nuevo: Emmanuel, Tipo: Admin, Email: emmanuel@temp.com
-[2026-05-08 05:48:09] Usuario: Emmanuel | Acción: MODIFICAR | Usuario original: chispa → Nuevo: chispa, Tipo: Usuario, Email: chispa@temp.com
-[2026-05-08 05:48:15] Usuario: Emmanuel | Acción: MODIFICAR | Usuario original: nuevo → Nuevo: nuevo, Tipo: Usuario, Email: nuevo@temp.com
-[2026-05-08 07:22:06] Usuario: Emmanuel | Acción: AGREGAR | Usuario: cesar, Tipo: Usuario, Email: cesar@temp.com
-[2026-05-08 07:23:19] Usuario: Emmanuel | Acción: AGREGAR | Usuario: mambo, Tipo: Usuario, Email: mambo@temp.com
